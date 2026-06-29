@@ -2,7 +2,13 @@
   "name": "@org/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  
+  "scripts": {
+    "dev": "nx serve Web",
+    "build": "nx build Web",
+    "start": "nx serve Web"
+  }
+
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.14.5",
