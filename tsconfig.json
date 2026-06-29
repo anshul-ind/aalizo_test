@@ -2,5 +2,27 @@
   "extends": "./tsconfig.base.json",
   "compileOnSave": false,
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./apps/web"
+    },
+    {
+      "path": "./apps/Admin"
+    },
+    {
+      "path": "./apps/Client"
+    },
+    {
+      "path": "./libs/shared/types"
+    },
+    {
+      "path": "./libs/shared/utils"
+    },
+    {
+      "path": "./apps/Web"
+    },
+    {
+      "path": "./libs/shared/ui"
+    }
+  ]
 }

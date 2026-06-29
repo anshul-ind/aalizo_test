@@ -1,0 +1,12 @@
+{
+  "name": "@org/Admin",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.1",
+    "autoprefixer": "^10.5.2",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1",
+    "vite-tsconfig-paths": "^6.1.1"
+  }
+}

@@ -1,2 +1,10 @@
 packages:
   - 'packages/*'
+  - 'apps/*'
+  - 'libs/shared/*'
+allowBuilds:
+  '@parcel/watcher': false
+  esbuild: false
+  less: false
+  sharp: false
+  unrs-resolver: false
