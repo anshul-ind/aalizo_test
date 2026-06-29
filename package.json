@@ -7,7 +7,7 @@
     "dev": "nx serve Web",
     "build": "nx build Web",
     "start": "nx serve Web"
-  }
+  },
 
   "private": true,
   "devDependencies": {
